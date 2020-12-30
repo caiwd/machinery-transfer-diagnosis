@@ -1,6 +1,6 @@
 # machinery-transfer-diagnosis
    
-论文《融合机理模型与迁移学习的旋转机械故障诊断》验证案例的代码和数据，验证数据用到了美国凯斯西储大学轴承数据中心的故障数（https://csegroups.case.edu/bearingdatacenter/pages/download-data-file ），
+论文《基于机理模型的旋转机械领域自适应故障诊断》验证案例的代码和数据，验证数据用到了美国凯斯西储大学轴承数据中心的故障数（https://csegroups.case.edu/bearingdatacenter/pages/download-data-file ），
 美国机械故障预防技术学会数据集（https://www.mfpt.org/fault-data-sets ），
 GFK和TCA的核心函数来源于微软亚洲研究院的王晋东博士（https://github.com/jindongwang/transferlearning ），
 引用记录已保留，如有侵权请联系我删除！个人邮箱：caiweidon@qq.com。
