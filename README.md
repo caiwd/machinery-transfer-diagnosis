@@ -23,6 +23,4 @@ npTDMS==0.28.0
 pandas==1.1.1
 openpyxl==3.0.5
 
-原始数据过大已将其上传至百度云: https://pan.baidu.com/s/1Iyw_B4X96mRaWuBWckQl9A 提取码: 1hyj
-
 /代码和数据将在论文公开后开源/
